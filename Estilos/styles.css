@@ -1,0 +1,29 @@
+#perfil
+{
+  border: solid black;
+  margin: 20px;
+
+}
+h1
+{
+  color: darkblue;
+  font-family: Book Antiqua;
+  margin: 20px;
+}
+p
+{
+  color: darkblue;
+  margin: 20px;
+  font-family: Book Antiqua;
+  font-size: 20px;
+
+}
+h3
+{
+
+  font-family: Book Antiqua;
+}
+a
+{
+  margin: 20px;
+}
