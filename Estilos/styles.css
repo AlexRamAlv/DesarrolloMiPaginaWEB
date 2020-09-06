@@ -1,29 +1,74 @@
 #perfil
 {
-  border: solid black;
-  margin: 20px;
+  border: solid #073a40;
+  display: inline-block;
+  width: 100px;
+  float:top;
+
 
 }
+
+.menus
+{
+  display: inline-block;
+  width: 300px;
+}
+
+header
+{
+  width: auto;
+  text-align: justify;
+}
+
+
+body
+{
+  background-color: #0e0d26;
+}
+
+footer
+{
+  background-color: #f2f2f2;
+  padding: 1em;
+  margin: 10px;
+  text-align: center;
+}
+
 h1
 {
-  color: darkblue;
-  font-family: Book Antiqua;
-  margin: 20px;
+  color: #f2f2f2;
 }
-p
-{
-  color: darkblue;
-  margin: 20px;
-  font-family: Book Antiqua;
-  font-size: 20px;
 
-}
 h3
 {
-
+  color: #f2f2f2;
   font-family: Book Antiqua;
-}
-a
-{
   margin: 20px;
+
+
+}
+
+p
+{
+  color: #728a8c;
+  padding: 10px;
+  font-family: Book Antiqua;
+  font-size: 14px;
+  display: inline-block;
+  float: left;
+
+}
+
+button
+{
+  width: 100px;
+  height: 150px;
+  width: 300px;
+}
+
+.menus
+{
+  color: #0e0d26;
+
+
 }
