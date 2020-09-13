@@ -1,74 +1,102 @@
-#perfil
-{
-  border: solid #073a40;
-  display: inline-block;
-  width: 100px;
-  float:top;
-
-
-}
-
-.menus
-{
-  display: inline-block;
-  width: 300px;
-}
-
-header
-{
-  width: auto;
-  text-align: justify;
-}
-
-
 body
 {
-  background-color: #0e0d26;
+  font-family: helvetica;
+  background-color: #172622;
+}
+header div
+{
+  text-align: center;
+  border: solid #2a403a;
+  background-color: #d0d5d9;
+  margin: auto;
+  width: 80%;
+}
+
+div a img
+{
+  border: solid #2a403a;
+  margin-top: 20px;
+}
+
+nav
+{
+  text-align: center;
+  font-weight: bold;
+  line-height: 2;
+}
+
+h1, h2
+{
+  text-align: center;
+  line-height: 2;
+}
+h1
+{
+  margin: auto;
+  margin-top: 10px;
+  border: solid #2a403a;
+  width: 80%;
+  background-color: silver;
+}
+
+header nav ul li
+{
+  display: inline-block;
+  width: 200px;
+  margin: 5px 30px;
+  text-align: center;
+  color: #8c8070;
+  border: solid #2a403a;
+  background: #2a403a;
+
+}
+
+header nav ul {padding: inherit;}
+a
+{
+  text-decoration: none;
+  color: inherit;
+}
+p
+{
+  line-height: 30px;
+  text-align:justify;
+  color: white;
+  margin: 60px;
+}
+strong
+{
+  color: white;
+
+}
+
+table
+{
+  margin: auto;
+  border: solid #d5d0d9;
+  color: #8c8070;
+}
+
+footer nav ul li
+{
+  display: inline-block;
+  margin: 10px 30px;
+  text-decoration: none;
+  text-align: center;
+  width: 5em;
+
+}
+footer nav ul
+{
+  background: white;
+  height: 80px;
+  border: solid #2a403a;
+
 }
 
 footer
 {
-  background-color: #f2f2f2;
-  padding: 1em;
-  margin: 10px;
-  text-align: center;
-}
-
-h1
-{
-  color: #f2f2f2;
-}
-
-h3
-{
-  color: #f2f2f2;
-  font-family: Book Antiqua;
-  margin: 20px;
-
-
-}
-
-p
-{
-  color: #728a8c;
-  padding: 10px;
-  font-family: Book Antiqua;
-  font-size: 14px;
-  display: inline-block;
-  float: left;
-
-}
-
-button
-{
-  width: 100px;
-  height: 150px;
-  width: 300px;
-}
-
-.menus
-{
-  color: #0e0d26;
-
-
+  width: 600px;
+  margin: auto;
+  height: 80%;
 }
